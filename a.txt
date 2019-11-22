@@ -1,0 +1,7 @@
+第一个文件
+普通提交，git 
+add 
+commit
+remote add origin 
+push origin master
+
